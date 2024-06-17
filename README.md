@@ -1,6 +1,3 @@
-Here's the README file with the updated repository name:
-
-```markdown
 # ML_Decision_Tree_Models_Project
 
 This repository contains the solution for the first homework assignment in the Machine Learning course. The project focuses on implementing various machine learning models including Decision Trees, Random Forests, and includes extensive data manipulation.
@@ -23,9 +20,9 @@ To run the Jupyter Notebook, you need the following dependencies:
 - seaborn
 
 You can install the required packages using the following command:
-```sh
+sh
 pip install numpy pandas scikit-learn matplotlib seaborn
-```
+
 
 ## How to Run
 
